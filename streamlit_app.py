@@ -27,10 +27,4 @@ st.divider()
 st.subheader("💰 Support Kara")
 upi_id = "9067516457@axl"
 upi_link = f"upi://pay?pa={upi_id}&pn=Pranav&am=20&cu=INR&tn=Support"
-st.link_button("☕ ₹20 Support - UPI", upi_link, use_container_width=True)
-st.caption("UPI: 9067516457@axl")
-st.divider()
-wa_link = "https://wa.me/919067516457?text=Hi%20Pranav%20Bhai,%20Coaching%20Havi%20Ahe"
-st.link_button("📲 Coaching ₹299 - WhatsApp", wa_link, use_container_width=True)
-st.markdown("---")
-st.markdown("<p style='text-align: center;'>Made in LONKHEDI with 🔥</p>", unsafe_allow_html=True)
+st.link_button("☕
