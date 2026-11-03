@@ -28,3 +28,4 @@ st.subheader("💰 Support Kara")
 upi_id = "9067516457@axl"
 upi_link = f"upi://pay?pa={upi_id}&pn=Pranav&am=20&cu=INR&tn=Support"
 st.link_button("☕
+9067516457@axl
